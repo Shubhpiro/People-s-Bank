@@ -1,0 +1,45 @@
+
+  .carousel-item .btn {
+    position: absolute;
+    top: 74%;
+    left: 63%;
+    width: 210px;
+    height: 60px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
+  
+  .carousel-item .btn:hover {
+    background-color:rgba(9, 95, 175, 1);
+  }
+  .container .btn{
+    position: absolute;
+    top: 1300px;
+    left: 450px;
+    width: 210px;
+    height: 60px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .card-title:hover{
+      color: blueviolet;
+  }
+  .card:hover{
+      box-shadow: 0 0 15px gray;
+  }
+  
